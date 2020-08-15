@@ -1,2 +1,2 @@
 # KT531PManual
-From FWD Manual
+From FWD and RWD Manual
